@@ -188,12 +188,12 @@ logo2='''
  ░░       ░ ░ ░ ▒   ▒ ░░  ░  ░  ░ ░ ░ ▒     ░   ░ ░ 
              ░ ░   ░        ░      ░ ░           ░ 
  ---------------------------------------------------
- ➣ Author   : AWDER-REVAN-BRYAR
- ➣ GitHub   : https://github.com/Awder645
- ➣ YouTube  : Awder
- ➣ telegram : https://t.me/eursa
+ ➣ Author   : Zed Coder
+ ➣ GitHub   : https://github.com/968hacker
+ ➣ YouTube  : Zed cracker
+ ➣ telegram : https://t.me/zed_cracker_1
  ---------------------------------------------------
-       Created By AWDER-REVAN-BRYAR
+       Created By Zed Coder 
  ---------------------------------------------------
    Crack instgram it started !
     please wait .... 1h or 2h 
@@ -304,10 +304,10 @@ def dwbara():
  ░░       ░ ░ ░ ▒   ▒ ░░  ░  ░  ░ ░ ░ ▒     ░   ░ ░ 
              ░ ░   ░        ░      ░ ░           ░ 
  ---------------------------------------------------
- ➣ Author   : AWDER-REVAN-BRYAR
- ➣ GitHub   : https://github.com/Awder645
- ➣ YouTube  : Awder
- ➣ telegram : https://t.me/eursa
+ ➣ Author   : Zed Coder
+ ➣ GitHub   : https://github.com/968hacker
+ ➣ YouTube  : Zed cracker
+ ➣ telegram : https://t.me/zed_cracker_1
  ---------------------------------------------------
  | 1 | = Checker(instgram)-(Combo=Insert)
  | 2 | = Checker(instgram)-(Combo=Number-Random)
@@ -320,7 +320,7 @@ def dwbara():
     print(logo)
     ia=input(" hallbzhera dl dl: ")
     if ia=="1":
-        os.system("xdg-open https://t.me/eursa")
+        os.system("xdg-open https://t.me/zed_cracker_1")
         instagram1()
     elif ia=="2":
         import wget, os
