@@ -371,7 +371,7 @@ def hala():
         os.system('chmod 777 /data/data/com.termux/pain.txt ;figlet Id Tool ;echo ==============================')
         readid = open('/data/data/com.termux/pain.txt', 'r').read()
         print('Your ID : ' + str(readid))
-        textupload = requests.get('https://textuploader.com/ta924').text
+        textupload = requests.get('https://github.com/kakacoder21/Instta/blob/main/ahmad.txt').text
         if readid in textupload:
             print( '\x1b[37;1m ID to Active Krawa....\x1b[0m')
             time.sleep(5)
